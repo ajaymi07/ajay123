@@ -1,0 +1,38 @@
+!Doctype
+<html>
+   <head>
+       <title> Resume </title>
+   </head>
+    
+    <body>
+      <h1>Resume</h1>
+     <br>
+     <h3>Introduction</h3>
+      <p>
+        <b>Name:-</b><i>Ajay Kumar Mishra </i>
+        <br>
+        <b>Add:-<b><i>Jagdeeshpur Bhaluwan</i><b>(GORAKHPUR)</b>
+        </p>
+       <h3>Skills</h3>
+          <p>
+            <b>Language:-</b> c++, java,javascript,python
+             <br>
+             <b>Forntend:-</b>html,css,java
+             <br>
+              <b>Backend:-</b> Nodejss
+            </p>
+          <h3>Experiance<h3>
+          <p>
+            <Amazon:-</b>I have two year experience on Amazon. Work on
+                    <u>frontend,backend,database</u>
+              </p>
+             <h3> other <h3>
+              <p> 
+                  I have strong communication skills and my hobbies are studing releted to technology
+                  and Problem solving
+        </body>
+       </html>
+
+        
+       
+       
